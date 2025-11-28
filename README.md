@@ -1,2 +1,2 @@
 # RiemannHypothesis
-a crack at proving the Riemann Hypothesis
+my July 2017 crack at proving the Riemann Hypothesis
